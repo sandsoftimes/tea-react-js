@@ -1,10 +1,14 @@
-
+import Chai from "./chai"
 
 function App() {
 
   return (
-    <h1>Chai aur react with vite | BILLA-HYPER-X</h1>
+    <>
+    <Chai/>
+    <h1>What is up??</h1>
+    </>
   )
+  
 }
 
 export default App
